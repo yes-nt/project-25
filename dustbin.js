@@ -10,9 +10,9 @@ class Dustbin {
         this.width = width;
         this.height = height;
 
-        //adds body to world
+        
         World.add(world,this.body);
-        this.image = loadImage("dustbingreen.png")
+      
 
     }
     display(){
