@@ -11,8 +11,7 @@ class Paper {
 
         World.add(world,this.body);
 
-        //assigns image
-        this.image = loadImage("paper.png");
+        
 
     
         
