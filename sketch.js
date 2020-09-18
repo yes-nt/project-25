@@ -5,8 +5,6 @@ const Bodies = Matter.Bodies;
 const Body = Matter.Body;
 
 
-function preload()
-{
 
 
 function setup() {
